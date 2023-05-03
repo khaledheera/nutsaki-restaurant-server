@@ -5,8 +5,23 @@
         "chefName":"Jungsik Dang",
         "yearsOfExperience":"15",
         "numbersOfRecipes":"13",
-        "likes":"4",
-        "description":"Jung Sikdang is a groundbreaking, iconic Korean restaurant for a variety of reasons. Opening in Sinsa-dong in 2009 and New York in 2011, it has received two Michelin stars and is ranked the 10th best restaurant in Asia. These awards are certainly deserved, but they are especially significant to Koreans: With the Korean obsession over international rankings (whether in education, sports or economic measures), this restaurant’s international acclaim has restored some level of pride around hansik, or traditional cuisine. "
+        "likes":"4.6",
+        "description":"Jung Sikdang is a groundbreaking, iconic Korean restaurant for a variety of reasons. Opening in Sinsa-dong in 2009 and New York in 2011, it has received two Michelin stars and is ranked the 10th best restaurant in Asia. ",
+       "recipeName1":"Delicious Gujeolpan",
+       "ingredients1":"raw beef, egg yolk, white kimchi, sesame leaves and fermented green peppers.",
+       "cookingMethod1":" Wrap each item up in fried seaweed and—voilà—a traditional dish reinterpreted!",
+       "rating1":"5",
+       
+       "recipeName2":"Bapsang & Jang trio",
+       "ingredients2":"rice mixed with abalone viscera sauce, grilled gizzard shad, stir-fried anchovies, pickles and more.",
+       "cookingMethod2":" Wrap each item up in fried seaweed and—voilà—a traditional dish reinterpreted!",
+       "rating2":"5",
+       
+       "recipeName3":"Honey Butter Squid Jerky",
+       "ingredients3":"150g / 5.3 ounces dried shredded squid,Tbsp mayonnaise, Tbsp honey or maple syrup,20g / 0.7 ounces butter,1 Tbsp brown sugar,1/4 tsp fine salt,dried parsley (optional), to garnish",
+       "cookingMethod3":"",
+       "rating3":"5"
+       
         
 
     },
@@ -16,8 +31,22 @@
         "chefName":"Kang Min-goo",
         "yearsOfExperience":"10",
         "numbersOfRecipes":"8",
-        "likes":"4.5",
-        "description":"Chef Kang Min-goo is still in his early 30’s, but has already built an impressive résumé outside of Korea. After becoming the youngest head chef at Nobu Bahamas (part of renowned chef Nobu Matsuhisa’s empire), Kang returned to Korea. His sense of duty to bring his international experiences to the table is reflected in his cuisine. “For Korean customers, I wanted to provide a fun experience; for foreigners, I wanted to provide a special meal that they can only have here. "
+        "likes":"7.5",
+        "description":"Chef Kang Min-goo is still in his early 30’s, but has already built an impressive résumé outside of Korea. After becoming the youngest head chef at Nobu Bahamas (part of renowned chef Nobu Matsuhisa’s empire), Kang returned to Korea.  ",
+        "recipeName1":"Delicious Gujeolpan",
+       "ingredients1":"raw beef, egg yolk, white kimchi, sesame leaves and fermented green peppers.",
+       "cookingMethod1":" Wrap each item up in fried seaweed and—voilà—a traditional dish reinterpreted!",
+       "rating1":"5",
+       
+       "recipeName2":"Bapsang & Jang trio",
+       "ingredients2":"rice mixed with abalone viscera sauce, grilled gizzard shad, stir-fried anchovies, pickles and more.",
+       "cookingMethod2":" Wrap each item up in fried seaweed and—voilà—a traditional dish reinterpreted!",
+       "rating2":"5",
+       
+       "recipeName3":"Honey Butter Squid Jerky",
+       "ingredients3":"150g / 5.3 ounces dried shredded squid,Tbsp mayonnaise, Tbsp honey or maple syrup,20g / 0.7 ounces butter,1 Tbsp brown sugar,1/4 tsp fine salt,dried parsley (optional), to garnish",
+       "cookingMethod3":"",
+       "rating3":"5"
         
 
     },
@@ -28,7 +57,21 @@
         "yearsOfExperience":"8",
         "numbersOfRecipes":"6",
         "likes":"5",
-        "description":"When you have a meal at Twenty Four Seasons, you’ll be surprised several times. To start with, they will serve you small, boiled sweet potatoes instead of bread before your meal starts. Then, There’s their snapper sashimi that is savory with a touch of cheonggukjang (fast-fermented bean paste). Chimchae, a Korean salad, is one of the best dishes at Twenty Four Seasons and it’s made of wild greens, enzymes and vinegar."
+        "description":"When you have a meal at Twenty Four Seasons, you’ll be surprised several times. To start with, they will serve you small, boiled sweet potatoes instead of bread before your meal starts. Then, There’s their snapper sashimi that is savory with a touch of cheonggukjang (fast-fermented bean paste). Chimchae, a Korean salad, is one of the best dishes at Twenty Four Seasons and it’s made of wild greens, enzymes and vinegar.",
+        "recipeName1":"Delicious Gujeolpan",
+       "ingredients1":"raw beef, egg yolk, white kimchi, sesame leaves and fermented green peppers.",
+       "cookingMethod1":" Wrap each item up in fried seaweed and—voilà—a traditional dish reinterpreted!",
+       "rating1":"5",
+       
+       "recipeName2":"Bapsang & Jang trio",
+       "ingredients2":"rice mixed with abalone viscera sauce, grilled gizzard shad, stir-fried anchovies, pickles and more.",
+       "cookingMethod2":" Wrap each item up in fried seaweed and—voilà—a traditional dish reinterpreted!",
+       "rating2":"5",
+       
+       "recipeName3":"Honey Butter Squid Jerky",
+       "ingredients3":"150g / 5.3 ounces dried shredded squid,Tbsp mayonnaise, Tbsp honey or maple syrup,20g / 0.7 ounces butter,1 Tbsp brown sugar,1/4 tsp fine salt,dried parsley (optional), to garnish",
+       "cookingMethod3":"",
+       "rating3":"5"
         
     },
     {
@@ -37,8 +80,21 @@
         "chefName":"Jang Jin-mo",
         "yearsOfExperience":"9",
         "numbersOfRecipes":"8",
-        "likes":"5",
-        "description":"Often referred to as “the secret restaurant” of Hannam-dong, the speakeasy-esque restaurant A&ND Dining opened its doors last July. With eight seats that line the bar, guests are greeted by A&ND Dining’s well-dressed staff and are offered a dinner course menu (the restaurant opens for dinner only), which features many dishes that they’ll get to see handmade by chef Jang Jin-mo. Seeing as it’s not unusual to witness him using a pair of tweezers to perfect the garnishes on a certain meal, that experience alone sets A&ND Dining apart."
+        "likes":"11",
+        "description":"Often referred to as “the secret restaurant” of Hannam-dong, the speakeasy-esque restaurant A&ND Dining opened its doors last July. With eight seats that line the bar, guests are greeted by A&ND Dining’s well-dressed staff and are offered a dinner course menu (the restaurant opens for dinner only), which features many dishes that they’ll get to see handmade by chef Jang Jin-mo. ","recipeName1":"Delicious Gujeolpan",
+        "ingredients1":"raw beef, egg yolk, white kimchi, sesame leaves and fermented green peppers.",
+        "cookingMethod1":" Wrap each item up in fried seaweed and—voilà—a traditional dish reinterpreted!",
+        "rating1":"5",
+        
+        "recipeName2":"Bapsang & Jang trio",
+        "ingredients2":"rice mixed with abalone viscera sauce, grilled gizzard shad, stir-fried anchovies, pickles and more.",
+        "cookingMethod2":" Wrap each item up in fried seaweed and—voilà—a traditional dish reinterpreted!",
+        "rating2":"5",
+        
+        "recipeName3":"Honey Butter Squid Jerky",
+        "ingredients3":"150g / 5.3 ounces dried shredded squid,Tbsp mayonnaise, Tbsp honey or maple syrup,20g / 0.7 ounces butter,1 Tbsp brown sugar,1/4 tsp fine salt,dried parsley (optional), to garnish",
+        "cookingMethod3":"",
+        "rating3":"5"
         
 
     },
@@ -48,8 +104,22 @@
         "chefName":"Lim Ki-hak",
         "yearsOfExperience":"4",
         "numbersOfRecipes":"4",
-        "likes":"4",
-        "description":"In order to truly appreciate La Cave du Cochon, one must first understand what charcuterie is and then examine the general lack thereof in Korea. “Sure, there’s my touch in the dishes that go out, but I haven’t done anything new. I just respect French tradition and do my best to recreate the original taste as well as I can,” says La Cave du Cochon’s chef Lim Ki-hak (sometimes referred to as “Korea’s Father of French Bistro Cuisine”)."
+        "likes":"7",
+        "description":"In order to truly appreciate La Cave du Cochon, one must first understand what charcuterie is and then examine the general lack thereof in Korea. “Sure, there’s my touch in the dishes that go out, but I haven’t done anything new. I just respect French tradition and do my best to recreate the original taste as well as I can,” says La Cave du Cochon’s chef Lim Ki-hak .",
+        "recipeName1":"Delicious Gujeolpan",
+       "ingredients1":"raw beef, egg yolk, white kimchi, sesame leaves and fermented green peppers.",
+       "cookingMethod1":" Wrap each item up in fried seaweed and—voilà—a traditional dish reinterpreted!",
+       "rating1":"5",
+       
+       "recipeName2":"Bapsang & Jang trio",
+       "ingredients2":"rice mixed with abalone viscera sauce, grilled gizzard shad, stir-fried anchovies, pickles and more.",
+       "cookingMethod2":" Wrap each item up in fried seaweed and—voilà—a traditional dish reinterpreted!",
+       "rating2":"5",
+       
+       "recipeName3":"Honey Butter Squid Jerky",
+       "ingredients3":"150g / 5.3 ounces dried shredded squid,Tbsp mayonnaise, Tbsp honey or maple syrup,20g / 0.7 ounces butter,1 Tbsp brown sugar,1/4 tsp fine salt,dried parsley (optional), to garnish",
+       "cookingMethod3":"",
+       "rating3":"5"
         
 
     },
@@ -59,8 +129,22 @@
         "chefName":"Lee You-suk",
         "yearsOfExperience":"15",
         "numbersOfRecipes":"13",
-        "likes":"4",
-        "description":"The search for a French gastro pub in Seoul can seem almost futile, which was even more so the case back in 2010 when Louis Cinq opened its doors. Rated by Zagat Survey in 2012 and featured in Korea’s Blue Ribbon in 2013 and 2014, the restaurant is well known by Koreans, many of whom enjoy the restaurant for its combination of wine, food and ambiance. (Some would argue that the same recognition doesn’t extend as far in the non-Korean communities). "
+        "likes":"7",
+        "description":"The search for a French gastro pub in Seoul can seem almost futile, which was even more so the case back in 2010 when Louis Cinq opened its doors. Rated by Zagat Survey in 2012 and featured in Korea’s Blue Ribbon in 2013 and 2014, the restaurant is well known by Koreans, many of whom enjoy the restaurant for its combination of wine, food and ambiance. ",
+        "recipeName1":"Delicious Gujeolpan",
+       "ingredients1":"raw beef, egg yolk, white kimchi, sesame leaves and fermented green peppers.",
+       "cookingMethod1":" Wrap each item up in fried seaweed and—voilà—a traditional dish reinterpreted!",
+       "rating1":"5",
+       
+       "recipeName2":"Bapsang & Jang trio",
+       "ingredients2":"rice mixed with abalone viscera sauce, grilled gizzard shad, stir-fried anchovies, pickles and more.",
+       "cookingMethod2":" Wrap each item up in fried seaweed and—voilà—a traditional dish reinterpreted!",
+       "rating2":"5",
+       
+       "recipeName3":"Honey Butter Squid Jerky",
+       "ingredients3":"150g / 5.3 ounces dried shredded squid,Tbsp mayonnaise, Tbsp honey or maple syrup,20g / 0.7 ounces butter,1 Tbsp brown sugar,1/4 tsp fine salt,dried parsley (optional), to garnish",
+       "cookingMethod3":"",
+       "rating3":"5"
         
 
     }
